@@ -1,8 +1,9 @@
 # Load-test-on-D.C-Shunt-Generator
-
-Aim:
+### Name:Vasukannan R
+### Reg no:212224080060
+## Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
-Apparatus Required:
+## Apparatus Required:
 Sl .no apparatus range type quantity
 1 Volt meter (0-300)V MC 1
 2 Ammeter (0-2.5)A MC 1
@@ -21,7 +22,7 @@ Precautions
 3. Starter should be in off position before switching on the supply.
 4. The DPST switch must be kept open.
    
-Procedure for Load test:
+## Procedure for Load test:
 
 1. Connections are given as per the circuit diagram
 2. The prime mover is started with the help of three point starter and it is made to run at rated
@@ -34,12 +35,12 @@ by closing the DPST switch 2.
 7. The motor is switched off by using DPST switch 1 after bringing all the rheostats to
 initial position
 
-Tabular Column:
-<img width="135" height="175" alt="image" src="https://github.com/user-attachments/assets/74439db6-2594-4eb5-8ee9-5e11c13dbada" />
+## Tabular Column:
+<img width="509" height="371" alt="image" src="https://github.com/user-attachments/assets/1641b4c7-3683-4920-b857-5ef394c51cff" />
 
-
-Model graph:
+## Model graph:
 <img width="399" height="182" alt="image" src="https://github.com/user-attachments/assets/05d45b14-c35d-4f16-a08a-58b263da9b84" />
 
-RESULT:
-The o. c and load characteristics of separately excited d. c. generator was performed by suitable experiment and the following characteristics graphs were obtained and drawn.
+## Result:
+<img width="1366" height="728" alt="LOAD CHARACTERISTICS OF DC SHUNT GENERATOR" src="https://github.com/user-attachments/assets/a2c3f6f7-f9d2-4b57-bd21-da16408fd7ea" />
+
